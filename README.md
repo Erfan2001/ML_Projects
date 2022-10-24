@@ -5,31 +5,33 @@ Project Link : https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-a
 **About Dataset**
 
 There is some information about each house:
-Age : Age of the patient
+A) Age : Age of the patient
 
-Sex : Sex of the patient
+B) Sex : Sex of the patient
 
-exang: exercise induced angina (1 = yes; 0 = no)
+C) exang: exercise induced angina (1 = yes; 0 = no)
 
-ca: number of major vessels (0-3)
+D) ca: number of major vessels (0-3)
 
-cp : Chest Pain type chest pain type
+E) cp : Chest Pain type chest pain type:
 
-Value 1: typical angina
-Value 2: atypical angina
-Value 3: non-anginal pain
-Value 4: asymptomatic
-trtbps : resting blood pressure (in mm Hg)
+1) Value 1: typical angina
+2) Value 2: atypical angina
+3) Value 3: non-anginal pain
+4) Value 4: asymptomatic
 
-chol : cholestoral in mg/dl fetched via BMI sensor
+F) trtbps : resting blood pressure (in mm Hg)
 
-fbs : (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
+G) chol : cholestoral in mg/dl fetched via BMI sensor
 
-rest_ecg : resting electrocardiographic results
+H) fbs : (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
 
-Value 0: normal
-Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
-Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria
-thalach : maximum heart rate achieved
+I) rest_ecg : resting electrocardiographic results
 
-target : 0= less chance of heart attack 1= more chance of heart attack
+1) Value 0: normal
+2) Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
+3) Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria
+
+J) thalach : maximum heart rate achieved
+
+K) target : 0= less chance of heart attack 1= more chance of heart attack
