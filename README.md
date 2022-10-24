@@ -9,10 +9,10 @@ I was trying to find a house for myself and I decide to collect many houses deta
 
 *Content*
 There is some information about each house:
-1)Area in square meters
-2)Number of bedrooms
-3)Has Parking or not
-4)Has elevator or not
-5)Has warehouse or not
-6)The region where the house is placed
-7)Price in Toman and USD
+1) Area in square meters
+2) Number of bedrooms
+3) Has Parking or not
+4) Has elevator or not
+5) Has warehouse or not
+6) The region where the house is placed
+7) Price in Toman and USD
