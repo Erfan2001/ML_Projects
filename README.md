@@ -4,7 +4,8 @@ Project Link : https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-a
 
 **About Dataset**
 
-There is some information about each house:
+There is some information about each patient:
+
 A) Age : Age of the patient
 
 B) Sex : Sex of the patient
